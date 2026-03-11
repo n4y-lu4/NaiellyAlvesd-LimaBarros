@@ -1,3 +1,4 @@
+#10/3/26
 #imc 
 nome =input("nome:")
 peso = float(input("peso:"))
